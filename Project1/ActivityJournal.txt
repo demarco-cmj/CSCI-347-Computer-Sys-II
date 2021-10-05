@@ -1,0 +1,16 @@
+Activity Journal
+
+Name:Connor DeMarco
+
+================================================================
+Start
+Estimated Time	12 00
+Plan: The biggest problem here is going to be correctly using all of my opointers and avoiding seg faults. That in pair with forking will be a struggle because I haven't played around with it at all yet.
+
+
+Complete
+Actual Time	28 00
+Observations: This project was very confusing as expected, but the main difference was the time we had to spend messing around with bugs. Even as I am writing this my brain is fried from trying to figure out why after calling the built-in of our choice, we were no longer able to change directories properly. We decided to try making the commands "ls" and "help". Our biggest obsticle was successfully sutting parsed arguments into a char**. We tried so many methods but had a difficult time wrapping our head around why arr_arguments was still containing NULL after argparse() was called. We perserviered though, right on the last day, so the extension was much appreciated.
+
+PLEASE NOTE: GitLab was down when trying to make a final push and I sent in an email notifying both professor and TA. If there is any confusion as to why this was pushed the next morning, please contact me!
+================================================================

@@ -1,0 +1,15 @@
+Activity Journal
+
+Name:Connor DeMarco
+
+================================================================
+Start
+Estimated Time	03 30
+Plan: Firstly I am still iffy on how the struct stat file_details will interact with my command line arguments, so I want to research how to make the program have that connection. The rest however, is smoother sailing because I just plan on using the & opporator and the constants from the slides such as S_IRUSR to test for file properties.
+
+
+Complete
+Actual Time	03 00
+Observations: My predictions were correct, the thing I struggled with the most is connecting the variables in my code with the desired files and directories. This took up most of my time. The rest actually worked right as planned which I was very pleased about.
+
+================================================================

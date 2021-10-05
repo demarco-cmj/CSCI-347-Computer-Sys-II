@@ -1,0 +1,16 @@
+Activity Journal
+
+Name:Connor DeMarco
+
+================================================================
+Start
+Estimated Time	01 00
+Plan: Test file to confirm that it works after copy, then update the code to the desired standards. Test periodically with gdb.
+
+
+Complete
+Actual Time	00 50
+Observations: Issues with the code was mostly just incorrectly named variables/functions. This with a few hard coded lines, I just added a lot of comments. 
+
+
+================================================================

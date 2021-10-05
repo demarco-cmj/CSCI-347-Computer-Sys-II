@@ -1,0 +1,17 @@
+Activity Journal
+
+Name: Connor DeMarco
+
+================================================================
+Start
+Estimated Time	01 00
+Plan: CODE SLING UNTIL IT STICKS... if I'm going to be completely honest.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	00 35
+Observations: This project was quick and easy as it was l;ikely intended to be. The only issue was slight differences in syntax from other languages I'm more experienced in. Overall it was a good experience though!
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================

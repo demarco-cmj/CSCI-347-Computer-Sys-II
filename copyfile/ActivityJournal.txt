@@ -1,0 +1,14 @@
+Activity Journal
+
+Name:Connor DeMarco
+
+================================================================
+Start
+Estimated Time	01 30
+Plan: Due to the fact that I accidentally coded the fileIO assignment using a simmilar system, I was confident that I would be able to return to that code to pump this one out quickly. Yet I was also aware that I did not know the syntax around reading/writing binary files.
+
+Complete
+Actual Time	01 00
+Observations: Thankfully I was correct! I was able to adapt my code from the push history of gitHub and implement this program fairly simply. The biggest hurtle was changing the read and write modes when calling fopen from "r" and "w" to "rb" and "wb". I overlooked this small but important change for 15 or so minutes, trying to figure why my output files for pictures were still generating empty txt files. I also had to re-write the copying loop from simply checking for EOF with chars, to using buffers.
+
+================================================================

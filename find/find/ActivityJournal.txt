@@ -1,0 +1,17 @@
+Activity Journal
+
+Name: Connor DeMarco
+
+================================================================
+Start
+Estimated Time: 01 00
+Plan: Work through one at a time.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	03 00
+Observations: Couldn't quite get why my last function was finding a substring that did not exist, however everything else passed.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================

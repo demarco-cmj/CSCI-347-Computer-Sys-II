@@ -1,0 +1,15 @@
+Activity Journal
+
+Name:Connor DeMarco
+
+================================================================
+Start
+Estimated Time	13 30
+Plan: First we want to be able to read and write the same image twice. This is important so that we can better evaluate whether our code for the filter is working properly. Then once this is all done, add the threads functionality.
+
+
+Complete
+Actual Time	18 00
+Observations: Once again the biggest problem was memory handling and segmentation faults. This plauged us for many hours and felt like we were making no progress at all. However, as according to plan, we implemented the read/write functionality first, and from there it was smooth sailing. The notes on the canvas page were detailed enough so that we could practically just follow along for the filter computation. Once we were near the end, we had one problem with the filter creating a scratchy rainbow-filled image. I later discovered this was because we were not resetting our aggregated RGB values and therefore were circling from 0 to 255. That was the last major bug, and the final hours were spend writing the concurrency experiment paper and adding tests for command errors and any other errors produced while reading, writing, and creating threads.s
+
+================================================================

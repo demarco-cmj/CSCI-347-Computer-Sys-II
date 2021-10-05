@@ -1,0 +1,15 @@
+Activity Journal
+
+Name:Connor DeMarco
+
+================================================================
+Start
+Estimated Time	01 30
+Plan: First assure that i can read in from the file, then simply +100 the char values to output to new file. Test periodically with gdb.
+
+
+Complete
+Actual Time	03 00
+Observations: This project seemed way too simple, and it was because I missed the part of the assignment that said I couldn't use ANSI C functions... because of this I had to write the program twice. Oh well! It was good practice.
+
+================================================================
